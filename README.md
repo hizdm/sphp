@@ -1,7 +1,7 @@
-<h1>SPHP（A Simple PHP Framework） 一个 简洁 的 PHP 框架 ....</h1>
+<h1>SPHP（A Simple PHP Framework） 一个简洁的PHP框架 ....</h1>
 
-1.目录结构
-sphp/
+<h2>1.目录结构</h2>
+<br>sphp/
 <br>├── config
 <br>├── default
 <br>│   ├── controller
@@ -27,7 +27,7 @@ sphp/
 _templates_c（smarty编译目录）、_templates_cache（smarty缓存目录）、index.php（单入口访问程序）
 
 <h2>2.访问路径</h2>
-<br>eg：http://w3schools.wang/index.php?site=default&ctl=index&act=index
+<br>eg：http://example.com/index.php?site=default&ctl=index&act=index
 <br>site：项目名称
 <br>ctl：控制器名称
 <br>act：方法名称
