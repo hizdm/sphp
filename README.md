@@ -50,6 +50,7 @@ class controller_product extends controller_base
    public function __construct() {
       parent::__construct()
    }
+}
 ```
 
 ## 4.模型命名规则
