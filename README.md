@@ -68,3 +68,5 @@ class module_product extends module_base
 
 ## 5.模板命名规则
 模板文件存放路径为：/项目名称/templates/，文件后缀可遵循Smarty或自己设置
+
+## 6.将引入Composer
