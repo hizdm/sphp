@@ -1,7 +1,7 @@
 <?php
 /**
  * SPHP框架基础配置
- * @author  zzl <598515020@qq.com>
+ * @author  hizdm <598515020@qq.com>
  */
 
 /** 设置时区 */
@@ -33,7 +33,7 @@ define('VIEW_COMPILE_DIR', ROOT_DIR . '_templates_c');
 define('VIEW_CACHE_DIR', ROOT_DIR . '_templates_cache');
 
 /** 默认项目 */
-define('DEFAULT_SITE', 'default');
+define('DEFAULT_SITE', 'app');
 
 /** 默认控制器 */
 define('DEFAULT_CONTROLLER', 'index');

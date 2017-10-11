@@ -1,7 +1,7 @@
 <?php
 /**
  * 框架基础 Controller
- * @author  zzl <598515020@qq.com>
+ * @author  hizdm <598515020@qq.com>
  */
 class frame_controller_base
 {

@@ -2,7 +2,7 @@
 /**
  * 接收参数处理
  *
- * @author zzl<598515020@qq.com>
+ * @author hizdm<598515020@qq.com>
  */
 class lib_context
 {
