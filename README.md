@@ -5,7 +5,7 @@
 ```
 sphp/
 ├── config
-├── default
+├── app
 │   ├── controller
 │   │   ├── base.class.php
 │   │   └── index.class.php
@@ -28,14 +28,14 @@ sphp/
 
 结构说明：
 * config（配置目录）
-* default（默认项目可自由定义名称）
+* app（默认项目可自由定义名称）
 * framework（框架核心程序）
 * _templates_c（smarty编译目录）
 * _templates_cache（smarty缓存目录）
 * index.php（单入口访问程序）
 
 ## 2.访问路径
-* eg：http://example.com/index.php?site=default&ctl=index&act=index
+* eg：http://example.com/index.php?site=app&ctl=index&act=index
 * site：项目名称
 * ctl：控制器名称
 * act：方法名称
